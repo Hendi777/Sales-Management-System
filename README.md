@@ -33,3 +33,29 @@ The application was written in Java Swing technology with a database connection.
 <p>8. Po zrobieniu tego projektu, jedyny wniosek , który mi się nasuwa to taki, że mogłem go skończyć szybciej i zająć się użyteczniejszą technologią :)</p>
 </ul>
 
+<p>SIGN UP</p>
+![signup](https://github.com/Hendi777/Sales-Management-System/assets/141283682/eea3f604-723d-4943-8bdf-2ca5dd2b4380)
+![validation](https://github.com/Hendi777/Sales-Management-System/assets/141283682/01f5dbc3-f5fc-422d-858f-84faaa840a66)
+![signuploginpassword](https://github.com/Hendi777/Sales-Management-System/assets/141283682/e2e3a310-fe04-4102-95b1-36a6f382a8e9)
+![databaseloginpassword](https://github.com/Hendi777/Sales-Management-System/assets/141283682/d9d91907-c160-4592-a62c-bffe470e23b6)
+![duplicate](https://github.com/Hendi777/Sales-Management-System/assets/141283682/6d4b0234-0af6-4b66-b7c8-04cdfba2ce60)
+
+<p>LOGIN</p>
+![logindatabase](https://github.com/Hendi777/Sales-Management-System/assets/141283682/494a5746-68c8-4363-9b48-3eacbb81dd88)
+![invalid](https://github.com/Hendi777/Sales-Management-System/assets/141283682/10382d8a-5e6d-4658-be83-5856f8bd2342)
+![password unvisible](https://github.com/Hendi777/Sales-Management-System/assets/141283682/7e294c97-75d7-4a92-8857-dee8f05fa45d)
+![password visible](https://github.com/Hendi777/Sales-Management-System/assets/141283682/cbdb3ec3-f76c-429c-92a3-7ac05e973681)
+
+<p>ADD PRODUCTS</p>
+![addproduct](https://github.com/Hendi777/Sales-Management-System/assets/141283682/64ae70b5-2e84-4175-997c-97846214fac7)
+![validation](https://github.com/Hendi777/Sales-Management-System/assets/141283682/d266582b-daca-43f6-bdcd-e14784743233)
+![product added](https://github.com/Hendi777/Sales-Management-System/assets/141283682/e557db06-9c13-4559-9f63-e5d8e6d7894a)
+
+<p>DISPLAY PRODUCTS</p>
+![productsdatabase](https://github.com/Hendi777/Sales-Management-System/assets/141283682/a9693830-2584-4780-8c23-aac72c3406db)
+![display products](https://github.com/Hendi777/Sales-Management-System/assets/141283682/bec73344-286f-45ea-85ff-7855b0ff384f)
+
+
+
+
+
