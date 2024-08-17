@@ -11,7 +11,7 @@ The application was written in Java Swing technology with a database connection.
 
 --------------------------------------------------------------
 
-
+<p>1. AUTOR : PAWEŁ PIJANOWSKI</p>
 
 <p>2. Projekt w stylu dodawania sprzedaży do bazy danych i podglądu produktów z danymi w tabeli, użytkownik musi posiadać konto by mieć dostęp do aplikacji, program z połączeniem z bazą danych.</p>
 
